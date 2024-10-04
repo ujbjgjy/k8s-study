@@ -5,3 +5,4 @@
 4. [第四章 容器集群k8s从入门到精通资料day04/讲义(md版)/Kubernetes第4天](./容器集群k8s从入门到精通资料day04/讲义(md版)/Kubernetes第4天.md)
 5. [第五章 容器集群k8s从入门到精通资料day05/讲义(md版)/Kubernetes第5天](./容器集群k8s从入门到精通资料day05/讲义(md版)/Kubernetes第5天.md)
 
+> [课程链接](https://www.bilibili.com/video/BV1Qv41167ck/?spm_id_from=333.337.search-card.all.click&vd_source=f6f01849f49fccae292de63b467e5563)
